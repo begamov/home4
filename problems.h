@@ -59,21 +59,3 @@ T midValue(T a, T b, T c) {
     }
     return c;
 }
-// Problem 1
-//floorFunction
-//ceilingFunction
-
-// Problem 2
-//swap_values
-
-// Problem 3
-//multiply
-
-// Problem 4
-//digitSum
-
-// Problem 5
-//decimalToBinary
-
-// Problem 6
-//midValue
